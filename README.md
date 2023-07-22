@@ -39,4 +39,4 @@ You maybe know those moments when you remember the name of a Pokemon or at least
 
 ## Target Technology
 
-Please use the regular HTML CSS and Javascript for your solution. In terms of additional tools and libraries, you can use your preferred technologies. We don‘t even make any assumptions about CSS handling. You can however choose to use any frontend framework of choice for this project; React js, Next js etc.
+Please use the regular HTML and Javascript for your solution. In terms of additional tools and libraries, you can use your preferred technologies. We don‘t even make any assumptions about CSS handling. You can however choose to use any frontend framework of choice for this project; React js, Next js etc.
