@@ -29,7 +29,8 @@ When a user clicks on a Pokemon we’d like to display the sufficient details of
 - Types
 - Weight
 - Moves
-- Pagination
+
+## Pagination
 
 Listing all Pokemon on a single page is not that sufficient. Overall i‘d be a whole bunch of data and information. Please add some pagination and make sure that we display at a maximum 16 Pokemon at once.
 
